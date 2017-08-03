@@ -1,3 +1,3 @@
 SELECT * FROM listings
 ORDER BY price DESC
-LIMIT 5
+LIMIT 1
